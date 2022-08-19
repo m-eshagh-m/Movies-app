@@ -7,7 +7,7 @@ This template should help get you started developing with Vue 3 in Vite.
 You can see the demo of my project online by this link:
 https://movies-app-4569a.web.app/
 
-- If your from Iran, please use of vpn to see the list of movies
+- If you are from Iran, please use a vpn to see the list of movies
 
 ## Recommended IDE Setup
 
