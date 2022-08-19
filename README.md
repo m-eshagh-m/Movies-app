@@ -1,4 +1,4 @@
-# vue-movies-app
+# movies-app by vue 3
 
 Hi, wellcome
 This template should help get you started developing with Vue 3 in Vite.
