@@ -1,14 +1,13 @@
 # vue-movies-app
 
 Hi, wellcome
+This template should help get you started developing with Vue 3 in Vite.
 
 ## Online Demo
-You can see the demo of my project online by below link:
+You can see the demo of my project online by this link:
 https://movies-app-4569a.web.app/
 
 - If your from Iran, please use of vpn to see the list of movies
-
-This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
 
